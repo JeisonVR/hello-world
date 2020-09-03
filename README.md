@@ -1,7 +1,5 @@
-# hello-world
-Nothing here
-Nothing there
-Nothing away
-Noting later
-Nothing before
-Simply nothing!!!
+# Mobile Apps development
+
+Repository for developments on the Mobile Apps development subject
+
+
